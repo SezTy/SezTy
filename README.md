@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Dylan 👋</h1>
+<h1 align="center">Salut, je suis Dylan</h1>
 <h3 align="center">Dylan Le Corre · SezTy · he/him</h3>
 
 <p align="center">
@@ -12,27 +12,23 @@
 
 ---
 
-### 📊 Statistiques GitHub
+### Statistiques GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SezTy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SezTy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SezTy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SezTy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SezTy&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SezTy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SezTy&theme=tokyo-night&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=SezTy&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SezTy&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SezTy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -41,32 +37,24 @@
 
 ---
 
-### 🛠️ Stack & outils
+### Stack & outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,cpp,html,css,tailwind,git,github,docker,linux,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,html,css,python,docker,git,github,linux&perline=8" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### Me retrouver
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SezTy/SezTy/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ Le snake nécessite une GitHub Action pour se générer automatiquement (voir instructions en bas).
-
----
-
-### 🌐 Me retrouver
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lien-000000?style=for-the-badge&logo=link&logoColor=white" /></a>
 </p>
 
 ---
+
+<p align="center"><i>Merci de ta visite. N'hésite pas à explorer mes repos.</i></p>
 
 <p align="center"><i>Merci de ta visite ! ⭐ N'hésite pas à explorer mes repos.</i></p>
