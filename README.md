@@ -13,8 +13,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25&reversal=true" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25&reversal=true" width="100%" />
 
 ## Outils & technologies
 
