@@ -15,25 +15,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b4965,100:2F81F7&height=3&width=100%25" width="100%" />
 
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SezTy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SezTy&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&cache_seconds=1800" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SezTy&theme=radical&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SezTy&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b4965,100:2F81F7&height=3&width=100%25" width="100%" />
-
 ## Outils & technologies
 
 <div align="center">
