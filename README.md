@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2F81F7&height=200&section=header&text=Dylan%20Le%20Corre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SezTy&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+passionn%C3%A9;Toujours+en+train+d'apprendre;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile%21;Thanks+for+stopping+by;Feel+free+to+explore" alt="Typing SVG" />
 
 <br/>
 
@@ -13,8 +13,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25" width="100%" />
-
 ## Outils & technologies
 
 <div align="center">
@@ -22,8 +20,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,python,git,github,docker,linux&perline=8" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25" width="100%" />
 
 ## Me retrouver
 
