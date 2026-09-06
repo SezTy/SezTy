@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2F81F7&height=200&section=header&text=Dylan%20Le%20Corre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SezTy&descAlignY=55&descSize=20" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+passionn%C3%A9;Toujours+en+train+d'apprendre;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+
 <br/>
 
 <a href="https://github.com/SezTy"><img src="https://img.shields.io/badge/GitHub-SezTy-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -40,7 +42,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b4965,100:2F81F7&height=3&width=100%25" width="100%" />
 
 ## Me retrouver
 
