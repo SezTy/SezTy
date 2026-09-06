@@ -13,17 +13,17 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b4965,100:2F81F7&height=3&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25" width="100%" />
 
 ## Outils & technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,git,github,docker,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,python,git,github,docker,linux&perline=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b4965,100:2F81F7&height=3&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2F81F7&height=100&width=100%25" width="100%" />
 
 ## Me retrouver
 
